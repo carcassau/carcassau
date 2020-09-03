@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=re631k3al3siym2t1g3xif22f&cover_image=false)](https://github.com/kittinan/spotify-github-profile)
+![Profile views](https://gpvc.arturio.dev/carcassau)
