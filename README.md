@@ -1,10 +1,10 @@
 ### Hi there 👋
-if you are reading here now yes yes, you will realize how uninformed github user 💔🥺 i am if you are reading right now but thanks to quiec i can say that i will be the smartest girl of this place in the future. 👩🏻‍💻
+if you are reading here now yes yes, you will realize how uninformed github user 💔 i am if you are reading right now but thanks to quiec i can say that i will be the smartest girl of this place in the future. 👩🏻‍💻
 <!--
 **carcassau/carcassau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:miyaav
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
